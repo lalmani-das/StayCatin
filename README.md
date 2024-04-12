@@ -2,7 +2,7 @@
 Exploratory Data Analysis (EDA) on data of properties listing from staycatin.com.
 # Tool used
 Tableau
-# Key problems that needed to be answered with the help of EDA
+# Key problems that got answered with the help of EDA
 1. Top 10 earners.
 
 2. Relationship between price and earning
